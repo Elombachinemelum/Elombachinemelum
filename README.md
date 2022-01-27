@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elombachinemelum
+- 👋 Hi, I’m Elomba chinemelum
 - 👀 I’m interested in programming(web development and web apps for now)
 - 🌱 I’m currently learning fullstack web development (also have plans to move into mobile devlopment later)
 - 💞️ I’m looking to collaborate on maybe any web project that will expose me to new things/technologies.
